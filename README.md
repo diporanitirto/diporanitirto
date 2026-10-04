@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Diporani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descSize=18&descAlignY=58)
-
 <img src="https://avatars.githubusercontent.com/u/238664581?v=4" width="120" style="border-radius: 50%;" alt="avatar"/>
 
 ### Halo, saya Diporani
@@ -31,7 +29,4 @@ Saya seorang web developer yang mengerjakan frontend dan backend. Di luar coding
 </p>
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer)
-
 </div>
